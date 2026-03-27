@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "To All of You",
+  "base_artist": "Syd Matters",
+  "createdAt": "2026-03-27T05:57:25.103017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "To All of You",
+      "artist": "Syd Matters",
+      "has_synced": true,
+      "path": "select/01_To_All_of_You_Syd_Matters.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "To All of You",
+      "artist": "CKY",
+      "has_synced": false,
+      "path": "select/02_To_All_of_You_CKY.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "To All of You",
+      "artist": "Syd Matters",
+      "has_synced": true,
+      "path": "select/03_To_All_of_You_Syd_Matters.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "To All Of You",
+      "artist": "Syd Matters",
+      "has_synced": false,
+      "path": "select/04_To_All_Of_You_Syd_Matters.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "To All Of You",
+      "artist": "Syd Matters",
+      "has_synced": true,
+      "path": "select/05_To_All_Of_You_Syd_Matters.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "To All Of You",
+      "artist": "RJD2",
+      "has_synced": true,
+      "path": "select/06_To_All_Of_You_RJD2.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Help Yourself To All Of My Lovin'",
+      "artist": "James & Bobby Purify",
+      "has_synced": false,
+      "path": "select/07_Help_Yourself_To_All_Of_My_Lovin'_James_&_Bobby_Purify.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Help Yourself (To All of My Lovin')",
+      "artist": "James & Bobby Purify",
+      "has_synced": false,
+      "path": "select/08_Help_Yourself_(To_All_of_My_Lovin')_James_&_Bobby_Purify.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "To All of You",
+      "artist": "Syd Matters",
+      "has_synced": true,
+      "path": "select/09_To_All_of_You_Syd_Matters.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "To All of You",
+      "artist": "Syd Matters, Syd Matters",
+      "has_synced": true,
+      "path": "select/10_To_All_of_You_Syd_Matters,_Syd_Matters.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hold On [Goodbye To All Of That]",
+      "artist": "Crippled Black Phoenix",
+      "has_synced": true,
+      "path": "select/11_Hold_On_[Goodbye_To_All_Of_That]_Crippled_Black_Phoenix.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hold On (So Goodbye to All of That)",
+      "artist": "Crippled Black Phoenix",
+      "has_synced": true,
+      "path": "select/12_Hold_On_(So_Goodbye_to_All_of_That)_Crippled_Black_Phoenix.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "To All of You",
+      "artist": "Syd Matters",
+      "has_synced": true,
+      "path": "select/13_To_All_of_You_Syd_Matters.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "To All of You (Remastered 2021)",
+      "artist": "Syd Matters",
+      "has_synced": true,
+      "path": "select/14_To_All_of_You_(Remastered_2021)_Syd_Matters.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Goodbye (To All of Our Friends)",
+      "artist": "Bearings",
+      "has_synced": true,
+      "path": "select/15_Goodbye_(To_All_of_Our_Friends)_Bearings.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "To All of You",
+      "artist": "Syd Matters",
+      "has_synced": true,
+      "path": "select/16_To_All_of_You_Syd_Matters.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "To All of You (Static Mix)",
+      "artist": "CKY",
+      "has_synced": false,
+      "path": "select/17_To_All_of_You_(Static_Mix)_CKY.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "To All Of You - Acoustic",
+      "artist": "CKY",
+      "has_synced": true,
+      "path": "select/18_To_All_Of_You_-_Acoustic_CKY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "To All of You",
+      "artist": "Syd Matters",
+      "has_synced": false,
+      "path": "select/pl_01_To_All_of_You_Syd_Matters.txt"
+    }
+  ]
+}
